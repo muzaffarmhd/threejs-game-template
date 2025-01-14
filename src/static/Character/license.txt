@@ -1,0 +1,11 @@
+Model Information:
+* title:	Retro Spaceship
+* source:	https://sketchfab.com/3d-models/retro-spaceship-1c7c2d03294b45aaa9d75fe975b61e1b
+* author:	amunozs (https://sketchfab.com/adrian.sierra92)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Retro Spaceship" (https://sketchfab.com/3d-models/retro-spaceship-1c7c2d03294b45aaa9d75fe975b61e1b) by amunozs (https://sketchfab.com/adrian.sierra92) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
