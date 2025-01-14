@@ -2,14 +2,6 @@
 
 A Third Person Game ThreeJS + CannonJS based Game Controls template.
 
-## Table of Contents
-
-- [Project Title](#project-title)
-- [Table of Contents](#table-of-contents)
-- [Project Structure](#project-structure)
-- Installation
-
-
 ## Project Structure
 
 ```
