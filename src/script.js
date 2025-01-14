@@ -43,7 +43,6 @@ const startBtn = document.getElementById('start-btn');
 startBtn.addEventListener('click', () => {
     // Hide the start screen
     startScreen.style.display = 'none';
-
     // Start the game after the screen is hidden
     startGame();
 });
